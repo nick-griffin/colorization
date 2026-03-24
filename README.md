@@ -1,5 +1,5 @@
 # colorization
-This program converts a greyscale image to a colorized image (inserted images must be jpg)
+This program converts a grayscale image to a colorized image (inserted images must be jpg)
 
 
 
